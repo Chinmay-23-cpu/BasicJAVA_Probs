@@ -41,5 +41,6 @@ public class compareString {
         {
             System.out.println("Strings are not equal");
         }
+        sc.close();;
     }
 }
